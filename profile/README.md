@@ -1,14 +1,6 @@
-# LiteSite Limited
+# Hey There 👋🏼
 
-Digitally connecting businesses to their customers by crafting high-performance websites with stunning design and speed.
+We are a software development company based in the UK. We are digitally connecting businesses to their customer through stunning, high-performance webpages and applications.
 
-<!--
+If you would like to have a chat with us, please email us on [atri@litesite.uk](mailto:atri@litesite.uk) or [bogdan@litesite.uk](mailto:bogdan@litesite.uk) or call us on [+441146976686](tel:441146976686) or <a href="tel:+442070461434">+442070461434</a>.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
